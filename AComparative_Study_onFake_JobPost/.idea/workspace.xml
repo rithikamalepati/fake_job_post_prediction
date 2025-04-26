@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54f71e55-e47a-434d-9053-0302b4d69788" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Service_Provider/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2108">
+              <caret line="162" column="69" lean-forward="false" selection-start-line="162" selection-start-column="69" selection-end-line="162" selection-end-column="69" />
+              <folding>
+                <element signature="e#1#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="design1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/design1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="24" lean-forward="false" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Add_DataSet_Details.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/Add_DataSet_Details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="37" column="89" lean-forward="false" selection-start-line="37" selection-start-column="89" selection-end-line="37" selection-end-column="89" />
+              <folding>
+                <element signature="e#2182#2188#0" expanded="true" />
+                <element signature="e#2193#2199#0" expanded="true" />
+                <element signature="e#2199#2205#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RandomForestClassifier</find>
+      <find>X_test</find>
+      <find>y_test</find>
+      <find>df_job_pred</find>
+      <find>y_pred_rfm</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Fake_Job.py" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/asgi.py" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/settings.py" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/wsgi.py" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Remote_User/models.py" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/Search_DataSets.html" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/Predict_Recommendation_Details.html" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/train_model.html" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/Find_Recommendation_Prediction_Ratio.html" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Remote_User/views.py" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/design.html" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/serviceproviderlogin.html" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/Register1.html" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/login.html" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/design1.html" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/urls.py" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Service_Provider/views.py" />
+        <option value="$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/Add_DataSet_Details.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1004" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AComparative_Study_onFake_JobPost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AComparative_Study_onFake_JobPost" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AComparative_Study_onFake_JobPost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AComparative_Study_onFake_JobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="aComparative_study_onFake_jobPost" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AComparative_Study_onFake_JobPost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AComparative_Study_onFake_JobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="aComparative_study_onFake_jobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="aComparative_study_onFake_jobPost" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AComparative_Study_onFake_JobPost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AComparative_Study_onFake_JobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="aComparative_study_onFake_jobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="Remote_User" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AComparative_Study_onFake_JobPost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AComparative_Study_onFake_JobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="aComparative_study_onFake_jobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="Service_Provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AComparative_Study_onFake_JobPost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AComparative_Study_onFake_JobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="aComparative_study_onFake_jobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AComparative_Study_onFake_JobPost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AComparative_Study_onFake_JobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="aComparative_study_onFake_jobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="htmls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AComparative_Study_onFake_JobPost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AComparative_Study_onFake_JobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="aComparative_study_onFake_jobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="htmls" type="462c0819:PsiDirectoryNode" />
+              <item name="RUser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AComparative_Study_onFake_JobPost" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AComparative_Study_onFake_JobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="aComparative_study_onFake_jobPost" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="htmls" type="462c0819:PsiDirectoryNode" />
+              <item name="SProvider" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54f71e55-e47a-434d-9053-0302b4d69788" name="Default" comment="" />
+      <created>1636975719884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636975719884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3773585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Service_Provider/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="162" column="69" lean-forward="false" selection-start-line="162" selection-start-column="69" selection-end-line="162" selection-end-column="69" />
+          <folding>
+            <element signature="e#1#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/design1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="24" lean-forward="false" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/Add_DataSet_Details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="89" lean-forward="false" selection-start-line="37" selection-start-column="89" selection-end-line="37" selection-end-column="89" />
+          <folding>
+            <element signature="e#2182#2188#0" expanded="true" />
+            <element signature="e#2193#2199#0" expanded="true" />
+            <element signature="e#2199#2205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Fake_Job.py" />
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Service_Provider/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+          <folding>
+            <element signature="e#1#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Remote_User/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/Add_DataSet_Details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="39" lean-forward="true" selection-start-line="54" selection-start-column="31" selection-end-line="58" selection-end-column="39" />
+          <folding>
+            <element signature="e#2182#2188#0" expanded="true" />
+            <element signature="e#2193#2199#0" expanded="true" />
+            <element signature="e#2199#2205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/Predict_Recommendation_Details.html" />
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Remote_User/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="80" column="23" lean-forward="true" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Fake_Job.py" />
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/asgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="5" lean-forward="false" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Remote_User/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Remote_User/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Fake_Job.py" />
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Remote_User/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/Search_DataSets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="92" column="165" lean-forward="false" selection-start-line="92" selection-start-column="165" selection-end-line="92" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/train_model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="49" column="106" lean-forward="false" selection-start-line="49" selection-start-column="106" selection-end-line="49" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/Predict_Recommendation_Details.html" />
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/Find_Recommendation_Prediction_Ratio.html" />
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/Download_Trained_DataSets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-790">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Remote_User/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="109" column="24" lean-forward="false" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/serviceproviderlogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="48" column="87" lean-forward="false" selection-start-line="48" selection-start-column="87" selection-end-line="48" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/Register1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="50" column="87" lean-forward="false" selection-start-line="50" selection-start-column="87" selection-end-line="50" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="46" column="87" lean-forward="false" selection-start-line="46" selection-start-column="87" selection-end-line="46" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/design.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/SProvider/design1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="24" lean-forward="false" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/aComparative_study_onFake_jobPost/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Service_Provider/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="162" column="69" lean-forward="false" selection-start-line="162" selection-start-column="69" selection-end-line="162" selection-end-column="69" />
+          <folding>
+            <element signature="e#1#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aComparative_study_onFake_jobPost/Template/htmls/RUser/Add_DataSet_Details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="37" column="89" lean-forward="false" selection-start-line="37" selection-start-column="89" selection-end-line="37" selection-end-column="89" />
+          <folding>
+            <element signature="e#2182#2188#0" expanded="true" />
+            <element signature="e#2193#2199#0" expanded="true" />
+            <element signature="e#2199#2205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

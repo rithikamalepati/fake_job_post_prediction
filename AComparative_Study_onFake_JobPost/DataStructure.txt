@@ -1,0 +1,38 @@
+A Comparative Study on Fake Job Post Prediction Using Different Data mining Techniques 
+
+IEEE International Conference on Robotics, Electrical and Signal Processing Techniques,Issue Date:01.February.2021
+
+
+false job prediction, deep learning, data mining.
+
+
+AComparative_Study_onFake_JobPost
+
+
+
+
+
+aComparative_study_onFake_jobPost
+
+
+
+Prediction_Results
+
+Job_Id
+Actual_Fake
+Predicted_Fake
+
+
+Job_Post_Prediction
+
+Job_Id
+Actual_Fake
+Predicted_Fake
+Prediction_Details
+
+
+
+Prediction_Results,detection_ratio,detection_accuracy
+
+
+
